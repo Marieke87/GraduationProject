@@ -1,0 +1,2563 @@
+positive reward: 4
+negative reward: -1
+number of episodes: 500
+learning rate: 0.1
+discount rate: 0.99
+exploration rate: 1
+max exploration rate: 1
+min exploration rate: 0.01
+exploration decay rate: 0.01
+--------------------------------------------------------
+pick random: 1014
+choice: (4195836, 4196291, 4195640, 4196160, 4196171)
+reward: -5
+success: False
+state: 0
+pick random: 734
+choice: (6295648, 4196160, 4196291, 4196171, 4195836)
+reward: -5
+success: False
+state: 0
+pick random: 1175
+choice: (4196160, 4196171, 6295648, 4195836, 4196291)
+reward: -5
+success: False
+state: 0
+pick random: 1415
+choice: (6295648, 4195640, 4196171, 4196160, 4196291, 4195836)
+reward: -6
+success: False
+state: 0
+pick best option: 0
+choice: (4196160, 4195836, 4195640, 4196171, 6295648, 4196291)
+reward: -6
+success: False
+state: 0
+pick random: 517
+choice: (4196291, 6295648, 4196171, 4195640, 4195836)
+reward: -1
+success: True
+state: 0
+pick random: 1167
+choice: (4196160, 4196171, 4196291, 4195640, 6295648)
+reward: -5
+success: False
+state: 0
+pick random: 1456
+choice: (6295648, 4196160, 4196291, 4195640, 4195836, 4196171)
+reward: -6
+success: False
+state: 0
+pick random: 1627
+choice: (4195640, 6295648, 4196171, 4196291, 4195836, 4196160)
+reward: -6
+success: False
+state: 0
+pick random: 1865
+choice: (4196160, 6295648, 4196291, 4195836, 4196171, 4195640)
+reward: -6
+success: False
+state: 0
+pick random: 374
+choice: (4195640, 4195836, 4196291, 4196171)
+reward: -4
+success: False
+state: 0
+pick random: 1343
+choice: (4196291, 4196160, 4196171, 4195836, 6295648, 4195640)
+reward: -6
+success: False
+state: 0
+pick random: 1874
+choice: (4196160, 6295648, 4195640, 4196291, 4195836, 4196171)
+reward: -6
+success: False
+state: 0
+pick random: 153
+choice: (4196160, 4195836, 4196291)
+reward: -3
+success: False
+state: 0
+pick best option: 1
+choice: (4196291,)
+reward: -1
+success: False
+state: 0
+pick random: 163
+choice: (4196291, 6295648, 4195836, 4196171)
+reward: -4
+success: False
+state: 0
+pick random: 1740
+choice: (4195836, 4196291, 4196160, 4195640, 4196171, 6295648)
+reward: -6
+success: False
+state: 0
+pick random: 970
+choice: (4195640, 4195836, 4196160, 6295648, 4196171)
+reward: -5
+success: False
+state: 0
+pick random: 500
+choice: (4196160, 4195640, 4196171, 6295648)
+reward: -4
+success: False
+state: 0
+pick random: 1540
+choice: (4196171, 4195640, 4195836, 6295648, 4196160, 4196291)
+reward: -6
+success: False
+state: 0
+pick random: 522
+choice: (4196291, 6295648, 4196171, 4196160, 4195836)
+reward: -1
+success: True
+state: 0
+pick random: 1888
+choice: (4196160, 4196171, 4196291, 4195640, 4195836, 6295648)
+reward: -6
+success: False
+state: 0
+pick random: 1903
+choice: (4196160, 4196171, 4195836, 4196291, 6295648, 4195640)
+reward: -6
+success: False
+state: 0
+pick random: 1221
+choice: (4196160, 4195836, 6295648, 4196171, 4196291)
+reward: -5
+success: False
+state: 0
+pick random: 58
+choice: (6295648, 4196291, 4195640)
+reward: -3
+success: False
+state: 0
+pick random: 1280
+choice: (4196291, 4196171, 4196160, 6295648, 4195836, 4195640)
+reward: -6
+success: False
+state: 0
+pick random: 1265
+choice: (4196291, 4196171, 6295648, 4196160, 4195640, 4195836)
+reward: -6
+success: False
+state: 0
+pick random: 594
+choice: (4196291, 4195836, 6295648, 4196160, 4195640)
+reward: -5
+success: False
+state: 0
+pick best option: 2
+choice: (6295648,)
+reward: -1
+success: False
+state: 0
+pick random: 1638
+choice: (4195640, 6295648, 4195836, 4196160, 4196171, 4196291)
+reward: -6
+success: False
+state: 0
+pick random: 200
+choice: (4196291, 4195836, 4195640, 4196171)
+reward: -4
+success: False
+state: 0
+pick best option: 3
+choice: (4196171,)
+reward: -1
+success: False
+state: 0
+pick best option: 4
+choice: (4195640,)
+reward: -1
+success: False
+state: 0
+pick best option: 5
+choice: (4195836,)
+reward: -1
+success: False
+state: 0
+pick random: 682
+choice: (6295648, 4196171, 4196160, 4195640, 4195836)
+reward: -5
+success: False
+state: 0
+pick random: 221
+choice: (6295648, 4196291, 4195640, 4195836)
+reward: -4
+success: False
+state: 0
+pick best option: 6
+choice: (4196160,)
+reward: -1
+success: False
+state: 0
+pick random: 1390
+choice: (6295648, 4196171, 4195640, 4195836, 4196160, 4196291)
+reward: -6
+success: False
+state: 0
+pick random: 269
+choice: (6295648, 4196160, 4196171, 4195640)
+reward: -4
+success: False
+state: 0
+pick random: 833
+choice: (4196171, 4195836, 4196291, 4196160, 6295648)
+reward: -5
+success: False
+state: 0
+pick best option: 7
+choice: (4196291, 6295648)
+reward: -2
+success: False
+state: 0
+pick random: 289
+choice: (4196171, 6295648, 4196291, 4195640)
+reward: -4
+success: False
+state: 0
+pick random: 288
+choice: (4196171, 4196291, 4196160, 4195836)
+reward: -4
+success: False
+state: 0
+pick best option: 8
+choice: (4196291, 4196171)
+reward: -2
+success: False
+state: 0
+pick best option: 9
+choice: (4196291, 4195640)
+reward: -2
+success: False
+state: 0
+pick random: 483
+choice: (4196160, 4196171, 4196291, 4195836)
+reward: -4
+success: False
+state: 0
+pick random: 1235
+choice: (4196160, 4195836, 4195640, 4196171, 4196291)
+reward: -5
+success: False
+state: 0
+pick best option: 10
+choice: (4196291, 4195836)
+reward: -2
+success: False
+state: 0
+pick best option: 11
+choice: (4196291, 4196160)
+reward: -2
+success: False
+state: 0
+pick random: 870
+choice: (4196171, 4196160, 4195640, 4195836, 6295648)
+reward: -5
+success: False
+state: 0
+pick best option: 12
+choice: (6295648, 4196291)
+reward: -2
+success: False
+state: 0
+pick best option: 13
+choice: (6295648, 4196171)
+reward: -2
+success: False
+state: 0
+pick random: 212
+choice: (4196291, 4196160, 4195640, 4196171)
+reward: -4
+success: False
+state: 0
+pick random: 1485
+choice: (4196171, 4196291, 4195640, 4195836, 6295648, 4196160)
+reward: -6
+success: False
+state: 0
+pick random: 1950
+choice: (4196160, 4195836, 4196171, 4195640, 6295648, 4196291)
+reward: -6
+success: False
+state: 0
+pick random: 387
+choice: (4195640, 4196160, 4196291, 4195836)
+reward: -4
+success: False
+state: 0
+pick random: 1764
+choice: (4195836, 6295648, 4196160, 4195640, 4196171, 4196291)
+reward: -6
+success: False
+state: 0
+pick best option: 14
+choice: (6295648, 4195640)
+reward: -2
+success: False
+state: 0
+pick random: 1622
+choice: (4195640, 6295648, 4196291, 4196171, 4196160, 4195836)
+reward: -6
+success: False
+state: 0
+pick random: 760
+choice: (4196171, 4196291, 6295648, 4195836, 4196160)
+reward: -5
+success: False
+state: 0
+pick best option: 15
+choice: (6295648, 4195836)
+reward: -2
+success: False
+state: 0
+pick best option: 16
+choice: (6295648, 4196160)
+reward: -2
+success: False
+state: 0
+pick random: 898
+choice: (4195640, 4196291, 4196160, 4196171, 4195836)
+reward: -5
+success: False
+state: 0
+pick best option: 17
+choice: (4196171, 4196291)
+reward: -2
+success: False
+state: 0
+pick random: 1196
+choice: (4196160, 4195640, 6295648, 4196291, 4195836)
+reward: -5
+success: False
+state: 0
+pick random: 357
+choice: (4195640, 6295648, 4195836, 4196160)
+reward: -4
+success: False
+state: 0
+pick random: 1873
+choice: (4196160, 6295648, 4195640, 4196291, 4196171, 4195836)
+reward: -6
+success: False
+state: 0
+pick random: 507
+choice: (4196160, 4195836, 4196291, 4195640)
+reward: -4
+success: False
+state: 0
+pick best option: 18
+choice: (4196171, 6295648)
+reward: -2
+success: False
+state: 0
+pick random: 883
+choice: (4195640, 4196291, 4196171, 6295648, 4195836)
+reward: -5
+success: False
+state: 0
+pick random: 832
+choice: (4196171, 4195836, 4196291, 4195640, 4196160)
+reward: -5
+success: False
+state: 0
+pick best option: 19
+choice: (4196171, 4195640)
+reward: -2
+success: False
+state: 0
+pick best option: 20
+choice: (4196171, 4195836)
+reward: -2
+success: False
+state: 0
+pick best option: 21
+choice: (4196171, 4196160)
+reward: -2
+success: False
+state: 0
+pick random: 1306
+choice: (4196291, 4195640, 4196160, 4196171, 4195836, 6295648)
+reward: -6
+success: False
+state: 0
+pick best option: 22
+choice: (4195640, 4196291)
+reward: -2
+success: False
+state: 0
+pick best option: 23
+choice: (4195640, 6295648)
+reward: -2
+success: False
+state: 0
+pick best option: 24
+choice: (4195640, 4196171)
+reward: -2
+success: False
+state: 0
+pick best option: 25
+choice: (4195640, 4195836)
+reward: -2
+success: False
+state: 0
+pick best option: 26
+choice: (4195640, 4196160)
+reward: -2
+success: False
+state: 0
+pick best option: 27
+choice: (4195836, 4196291)
+reward: -2
+success: False
+state: 0
+pick random: 594
+choice: (4196291, 4195836, 6295648, 4196160, 4195640)
+reward: -5
+success: False
+state: 0
+pick random: 837
+choice: (4196171, 4195836, 6295648, 4195640, 4196291)
+reward: -5
+success: False
+state: 0
+pick best option: 28
+choice: (4195836, 6295648)
+reward: -2
+success: False
+state: 0
+pick random: 1666
+choice: (4195640, 4196171, 4196160, 6295648, 4195836, 4196291)
+reward: -6
+success: False
+state: 0
+pick best option: 29
+choice: (4195836, 4196171)
+reward: -2
+success: False
+state: 0
+pick random: 1407
+choice: (6295648, 4195640, 4196291, 4195836, 4196171, 4196160)
+reward: -6
+success: False
+state: 0
+pick random: 1252
+choice: (4196291, 6295648, 4195836, 4195640, 4196160, 4196171)
+reward: -6
+success: False
+state: 0
+pick best option: 30
+choice: (4195836, 4195640)
+reward: -2
+success: False
+state: 0
+pick best option: 31
+choice: (4195836, 4196160)
+reward: -2
+success: False
+state: 0
+pick random: 298
+choice: (4196171, 6295648, 4196160, 4196291)
+reward: -4
+success: False
+state: 0
+pick random: 150
+choice: (4196160, 4195640, 6295648)
+reward: -3
+success: False
+state: 0
+pick best option: 32
+choice: (4196160, 4196291)
+reward: -2
+success: False
+state: 0
+pick best option: 33
+choice: (4196160, 6295648)
+reward: -2
+success: False
+state: 0
+pick random: 673
+choice: (6295648, 4196171, 4195836, 4196291, 4195640)
+reward: -5
+success: False
+state: 0
+pick random: 658
+choice: (6295648, 4196291, 4196160, 4195640, 4195836)
+reward: -5
+success: False
+state: 0
+pick best option: 34
+choice: (4196160, 4196171)
+reward: -2
+success: False
+state: 0
+pick best option: 35
+choice: (4196160, 4195640)
+reward: -2
+success: False
+state: 0
+pick best option: 36
+choice: (4196160, 4195836)
+reward: -2
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1914
+choice: (4196160, 4195640, 4196291, 4195836, 4196171, 6295648)
+reward: -6
+success: False
+state: 0
+pick random: 1760
+choice: (4195836, 6295648, 4196160, 4196291, 4195640, 4196171)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1870
+choice: (4196160, 6295648, 4196171, 4195640, 4195836, 4196291)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 350
+choice: (4195640, 6295648, 4196291, 4195836)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 101
+choice: (4195640, 6295648, 4196291)
+reward: -3
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1873
+choice: (4196160, 6295648, 4195640, 4196291, 4196171, 4195836)
+reward: -6
+success: False
+state: 0
+pick random: 487
+choice: (4196160, 4196171, 4195640, 4196291)
+reward: -4
+success: False
+state: 0
+pick random: 119
+choice: (4195836, 4196291, 4195640)
+reward: -3
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1518
+choice: (4196171, 6295648, 4195836, 4196160, 4195640, 4196291)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 146
+choice: (4196160, 4196171, 6295648)
+reward: -3
+success: False
+state: 0
+pick random: 1490
+choice: (4196171, 4196291, 4195836, 6295648, 4196160, 4195640)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1032
+choice: (4195836, 6295648, 4196171, 4196160, 4195640)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 701
+choice: (6295648, 4195640, 4195836, 4196160, 4196291)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 696
+choice: (6295648, 4195640, 4196171, 4196160, 4195836)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 995
+choice: (4195640, 4196160, 4195836, 4196171, 4196291)
+reward: -5
+success: False
+state: 0
+pick random: 1948
+choice: (4196160, 4195836, 4196171, 6295648, 4195640, 4196291)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 883
+choice: (4195640, 4196291, 4196171, 6295648, 4195836)
+reward: -5
+success: False
+state: 0
+pick random: 1888
+choice: (4196160, 4196171, 4196291, 4195640, 4195836, 6295648)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 518
+choice: (4196291, 6295648, 4196171, 4195640, 4196160)
+reward: -1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1383
+choice: (6295648, 4196171, 4196291, 4195836, 4195640, 4196160)
+reward: -6
+success: False
+state: 0
+pick random: 457
+choice: (4196160, 4196291, 6295648, 4196171)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1069
+choice: (4195836, 4195640, 4196291, 6295648, 4196171)
+reward: -1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 291
+choice: (4196171, 6295648, 4196291, 4196160)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1305
+choice: (4196291, 4195640, 4196160, 4196171, 6295648, 4195836)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 885
+choice: (4195640, 4196291, 4196171, 4195836, 6295648)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 514
+choice: (4196160, 4195836, 4195640, 4196291)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 965
+choice: (4195640, 4195836, 4196171, 4196160, 4196291)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 667
+choice: (6295648, 4196171, 4195640, 4196291, 4195836)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 793
+choice: (4196171, 6295648, 4195836, 4196291, 4195640)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1264
+choice: (4196291, 4196171, 6295648, 4195836, 4196160, 4195640)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 462
+choice: (4196160, 4196291, 4196171, 4195836)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 414
+choice: (4195836, 6295648, 4196171, 4196160)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1683
+choice: (4195640, 4195836, 4196171, 6295648, 4196291, 4196160)
+reward: -6
+success: False
+state: 0
+pick random: 1884
+choice: (4196160, 6295648, 4195836, 4195640, 4196171, 4196291)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 903
+choice: (4195640, 6295648, 4196291, 4195836, 4196171)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 853
+choice: (4196171, 4196160, 4196291, 6295648, 4195640)
+reward: -5
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 318
+choice: (4196171, 4195836, 6295648, 4196160)
+reward: -4
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick random: 1506
+choice: (4196171, 6295648, 4196291, 4196160, 4195836, 4195640)
+reward: -6
+success: False
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+pick best option: 37
+choice: (4196291, 6295648, 4196171)
+reward: 1
+success: True
+state: 0
+********** Average  reward per 10 episodes  **********
+10: -5.1
+20: -4.5
+30: -4.5
+40: -3.2
+50: -3.2
+60: -4.300000000000001
+70: -3.7
+80: -2.7
+90: -3.8000000000000007
+100: -2.6
+110: -1.1
+120: 0.10000000000000003
+130: -1.2999999999999998
+140: -0.10000000000000003
+150: -0.8
+160: -1.7999999999999998
+170: -0.20000000000000004
+180: 0.7999999999999999
+190: 0.9999999999999999
+200: 0.9999999999999999
+210: -1.2999999999999998
+220: 0.4
+230: 0.9999999999999999
+240: 0.3999999999999999
+250: 0.9999999999999999
+260: 0.3999999999999999
+270: 0.9999999999999999
+280: 0.9999999999999999
+290: 0.9999999999999999
+300: 0.9999999999999999
+310: 0.3
+320: 0.9999999999999999
+330: 0.5
+340: 0.9999999999999999
+350: 0.9999999999999999
+360: 0.9999999999999999
+370: 0.9999999999999999
+380: 0.5
+390: 0.9999999999999999
+400: -0.4
+410: 0.9999999999999999
+420: 0.4
+430: 0.9999999999999999
+440: 0.3999999999999999
+450: 0.4999999999999999
+460: 0.29999999999999993
+470: 0.9999999999999999
+480: 0.9999999999999999
+490: 0.9999999999999999
+500: 0.9999999999999999
+********** Q-table **********
+[[-0.6 -0.1 -0.1 ...  0.   0.   0. ]]

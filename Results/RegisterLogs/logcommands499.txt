@@ -1,0 +1,96 @@
+rax            0xb                 0xb
+rbx            0x400760            0x400760
+rcx            0x7fea0d1ee1e7      0x7fea0d1ee1e7
+rdx            0x0                 0x0
+rsi            0x7fea0d2c9723      0x7fea0d2c9723
+rdi            0x7fea0d2cb4c0      0x7fea0d2cb4c0
+rbp            0x7ffc52acf270      0x7ffc52acf270
+rsp            0x7ffc52acf250      0x7ffc52acf250
+r8             0xb                 0xb
+r9             0x2                 0x2
+r10            0xfffffffffffff27a  0xfffffffffffff27a
+r11            0x246               0x246
+r12            0x4005b0            0x4005b0
+r13            0x7ffc52acf370      0x7ffc52acf370
+r14            0x0                 0x0
+r15            0x0                 0x0
+rip            0x400740            0x400740 <pwnme+88>
+eflags         0x246               [ PF ZF IF ]
+cs             0x33                0x33
+ss             0x2b                0x2b
+ds             0x0                 0x0
+es             0x0                 0x0
+fs             0x0                 0x0
+gs             0x0                 0x0
+rax            0xb                 0xb
+rbx            0x400760            0x400760
+rcx            0x7fea0d1ee1e7      0x7fea0d1ee1e7
+rdx            0x0                 0x0
+rsi            0x7fea0d2c9723      0x7fea0d2c9723
+rdi            0x7fea0d2cb4c0      0x7fea0d2cb4c0
+rbp            0x4141414141414141  0x4141414141414141
+rsp            0x7ffc52acf280      0x7ffc52acf280
+r8             0xb                 0xb
+r9             0x2                 0x2
+r10            0xfffffffffffff27a  0xfffffffffffff27a
+r11            0x246               0x246
+r12            0x4005b0            0x4005b0
+r13            0x7ffc52acf370      0x7ffc52acf370
+r14            0x0                 0x0
+r15            0x0                 0x0
+rip            0x4007c3            0x4007c3 <__libc_csu_init+99>
+eflags         0x246               [ PF ZF IF ]
+cs             0x33                0x33
+ss             0x2b                0x2b
+ds             0x0                 0x0
+es             0x0                 0x0
+fs             0x0                 0x0
+gs             0x0                 0x0
+rax            0xb                 0xb
+rbx            0x400760            0x400760
+rcx            0x7fea0d1ee1e7      0x7fea0d1ee1e7
+rdx            0x0                 0x0
+rsi            0x7fea0d2c9723      0x7fea0d2c9723
+rdi            0x601060            0x601060
+rbp            0x4141414141414141  0x4141414141414141
+rsp            0x7ffc52acf290      0x7ffc52acf290
+r8             0xb                 0xb
+r9             0x2                 0x2
+r10            0xfffffffffffff27a  0xfffffffffffff27a
+r11            0x246               0x246
+r12            0x4005b0            0x4005b0
+r13            0x7ffc52acf370      0x7ffc52acf370
+r14            0x0                 0x0
+r15            0x0                 0x0
+rip            0x40074b            0x40074b <usefulFunction+9>
+eflags         0x246               [ PF ZF IF ]
+cs             0x33                0x33
+ss             0x2b                0x2b
+ds             0x0                 0x0
+es             0x0                 0x0
+fs             0x0                 0x0
+gs             0x0                 0x0
+rax            0x0                 0x0
+rbx            0x400760            0x400760
+rcx            0x0                 0x0
+rdx            0x0                 0x0
+rsi            0x7ffc52acef60      0x7ffc52acef60
+rdi            0x2                 0x2
+rbp            0x400538            0x400538 <_init+16>
+rsp            0x7ffc52acf2a0      0x7ffc52acf2a0
+r8             0x7ffc52acef60      0x7ffc52acef60
+r9             0x0                 0x0
+r10            0x8                 0x8
+r11            0x246               0x246
+r12            0x4005b0            0x4005b0
+r13            0x7ffc52acf370      0x7ffc52acf370
+r14            0x0                 0x0
+r15            0x0                 0x0
+rip            0x400740            0x400740 <pwnme+88>
+eflags         0x202               [ IF ]
+cs             0x33                0x33
+ss             0x2b                0x2b
+ds             0x0                 0x0
+es             0x0                 0x0
+fs             0x0                 0x0
+gs             0x0                 0x0

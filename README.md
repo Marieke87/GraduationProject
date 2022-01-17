@@ -3,6 +3,7 @@ My graduation project on using reinforcement learning to solve ROP chain challen
 
 ## Report
 My report can be found [here](https://github.com/Marieke87/GraduationProject/blob/main/Marieke%20Gijsberts%2C%202415540%20-%20MSc%20Data%20Science%20dissertation.pdf).
+My interim report can be found [here](https://github.com/Marieke87/GraduationProject/blob/main/Interim%20report%20-%20Marieke%20Gijsberts%202415540.pdf).
 
 ## Code
 The [Code](Code/) folder shows the code I've used for this project:

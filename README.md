@@ -1,6 +1,8 @@
 # GraduationProject
-My graduation project on using reinforcement learning to solve ROP chain challenges
+My graduation project on using reinforcement learning to solve ROP chain challenges.
 
+## Report
+My report can be found [here](https://github.com/Marieke87/GraduationProject/blob/main/Marieke%20Gijsberts%2C%202415540%20-%20MSc%20Data%20Science%20dissertation.pdf).
 
 ## Code
 The [Code](Code/) folder shows the code I've used for this project:
@@ -18,6 +20,6 @@ The [RegisterLogs](Results/RegisterLogs) folder shows one example of the registe
 The [RLdata](Results/RLdata) folder shows the raw data of the different experiments I ran, per setup. 
 
 ### ParsingResults
-The [ParsingResults](Results/ParsingResults) folder shows the charts and tables as used in my thesis.
+The [ParsingResults](Results/ParsingResults) folder shows the charts and tables as used in my thesis:
 - [ExplorationExploitation](Results/ParsingResults/ExplorationExploitation) shows the tables and charts that show the ratio of exploration/exploitation in the different setups;
 - [PickResults](Results/ParsingResults/PickResults) shows the different picks of each setup.
